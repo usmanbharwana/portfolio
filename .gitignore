@@ -1,0 +1,12 @@
+@"
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+space dot backslash env.txt
+space dot env
+space point env.txt
+/generated/prisma
+"@ | Set-Content .gitignore

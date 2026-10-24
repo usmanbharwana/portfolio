@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="container py-24"><h1 className="text-4xl font-bold">Page not found</h1><p className="mt-4 text-slate-400">The page may not be in the portfolio directory yet.</p><a className="mt-6 inline-block text-sky-300" href="/">Return home →</a></main>}

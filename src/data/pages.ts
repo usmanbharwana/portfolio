@@ -1,0 +1,33 @@
+export const portfolioPages = [
+  { slug: 'about', title: 'About Me', category: 'Profile', description: 'Background, interests, and goals.' },
+  { slug: 'skills', title: 'Skills Overview', category: 'Skills', description: 'A grouped overview of technologies and tools.' },
+  { slug: 'projects', title: 'Project Gallery', category: 'Projects', description: 'A home for verified work and case studies.' },
+  { slug: 'activities', title: 'Activities & Learning', category: 'Journey', description: 'Learning, experiments, and ongoing activities.' },
+  { slug: 'services', title: 'Services', category: 'Work', description: 'Services you genuinely offer.' },
+  { slug: 'contact', title: 'Contact', category: 'Connect', description: 'Ways to reach you professionally.' },
+  { slug: 'frontend-html-css', title: 'HTML & CSS', category: 'Development', description: 'Semantic markup, layouts, responsive design, and styling.' },
+  { slug: 'javascript', title: 'JavaScript', category: 'Development', description: 'Interactive web experiences and browser logic.' },
+  { slug: 'typescript-react', title: 'TypeScript & React', category: 'Development', description: 'Reusable components and typed interfaces.' },
+  { slug: 'nextjs', title: 'Next.js', category: 'Development', description: 'Routing, rendering, and full-stack web foundations.' },
+  { slug: 'python', title: 'Python', category: 'Programming', description: 'Automation, scripting, and data-focused projects.' },
+  { slug: 'java', title: 'Java', category: 'Programming', description: 'Object-oriented programming practice and applications.' },
+  { slug: 'cpp', title: 'C & C++', category: 'Programming', description: 'Programming fundamentals and problem-solving.' },
+  { slug: 'php-sql', title: 'PHP & SQL', category: 'Backend', description: 'Server-side fundamentals and database-driven apps.' },
+  { slug: 'wordpress', title: 'WordPress', category: 'CMS', description: 'Website setup, themes, plugins, and content workflows.' },
+  { slug: 'ai-automation', title: 'AI & Automation', category: 'AI', description: 'AI-assisted workflows and repeatable processes.' },
+  { slug: 'video-editing', title: 'Video Editing', category: 'Creative', description: 'Short-form content, edits, and visual storytelling.' },
+  { slug: 'graphic-design', title: 'Graphic Design', category: 'Creative', description: 'Branding, layouts, and social media creatives.' },
+  { slug: 'research', title: 'Research & Notes', category: 'Research', description: 'Research interests and documented learning.' },
+  { slug: 'certifications', title: 'Certifications', category: 'Journey', description: 'Add only certifications you have actually earned.' },
+  { slug: 'case-studies', title: 'Case Studies', category: 'Projects', description: 'Problem, process, implementation, and outcome.' },
+  { slug: 'open-source', title: 'Open Source', category: 'Community', description: 'Repositories and contributions you can verify.' },
+];
+
+export const extraPageSlugs = [
+  'web-design', 'responsive-design', 'ui-ux', 'frontend-projects', 'backend-projects',
+  'database-projects', 'api-integration', 'automation-projects', 'chatbot-concepts',
+  'prompt-library', 'ai-video-projects', 'brand-identity', 'social-media-design',
+  'motion-graphics', 'data-analysis', 'python-scripts', 'learning-roadmap',
+  'problem-solving', 'tools-workflow', 'project-process', 'testimonials',
+  'freelance-work', 'resume', 'downloads', 'faq', 'privacy',
+];
